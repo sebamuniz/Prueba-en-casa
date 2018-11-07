@@ -11,7 +11,7 @@ namespace Prueba_en_casa
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Utilities.Usuario.Equals("cvbnm");
         }
     }
 }
