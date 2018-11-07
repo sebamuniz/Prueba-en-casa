@@ -8,6 +8,7 @@ namespace Prueba_en_casa
     public class Utilities
     {
         public static string Usuario { get; set; }
+        //ghjk
 
 
     }
